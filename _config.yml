@@ -39,8 +39,8 @@ plainwhite:
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   html_lang: "en"
-  sitemap: true
-  # portfolio_image: "assets/portfolio.png"
+  portfolio_image: "assets/portfolio.png"
+  # sitemap: true
   # navigation:
   #   - title: My Work
   #     url: "/my-work"
