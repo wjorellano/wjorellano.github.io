@@ -33,14 +33,15 @@ plugins:
   - jekyll-seo-tag
   #- jekyll-feed
 plainwhite:
-  dark_mode: true
-  # search: true
+  search: true
   name: Wilman Orellano
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   html_lang: "en"
   portfolio_image: "assets/portfolio.png"
-  # sitemap: true
+  sitemap: true
+  html_lang: "en"
+  dark_mode: true
   # navigation:
   #   - title: My Work
   #     url: "/my-work"
