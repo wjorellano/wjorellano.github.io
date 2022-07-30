@@ -40,7 +40,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   html_lang: "en"
   sitemap: true
-  portfolio_image: "assets/portfolio.png"
+  # portfolio_image: "assets/portfolio.png"
   # navigation:
   #   - title: My Work
   #     url: "/my-work"
