@@ -6,7 +6,10 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <link href="https://fonts.googleapis.com/css?family=Merriweather:300|Raleway:400,700" rel="stylesheet">
 <link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css.map">
 <script src="/assets/js/darkmode.js"></script>
+<script src="/assets/js/search.js"></script>
+<script src="/assets/js/simple-jekyll-search.min.js"></script>
 <title>wjorellano</title>
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>wjorellano | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</title>
@@ -30,10 +33,9 @@
 		<section class="about">
 			<div class="about-header ">
 				<div class="about-title">
-					<a href="/%20/">
+					<a href="/">
 						
-						<img src="/assets/portfolio.png"
-							alt="Wilman Orellano" />
+						<img src="/assets/portfolio.png" alt="Wilman Orellano">
 						
 					</a>
 					<h2 id="title">
@@ -67,24 +69,35 @@
 		<section class="content">
 			
 <ul class="posts">
-  <li>
+  <li class="posts-labelgroup" id="posts-labelgroup">
     <h1 id="posts-label">posts</h1>
+    
+    <div class="search-container">
+      <div class="search-section">
+        <i class="icon-search"></i>
+        <input type="text" name="search" id="searchbar" autocomplete="off" aria-label="search in posts">
+      </div>
+      <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
+    </div>
+    
   </li><li><a class="post-link" href="/daily-routine/2022/07/30/daily-routine.html">
       <h2 class="post-title">Daily routine</h2>
     </a>
     <div class="post-meta">
-      <ul class="post-categories"><li>daily-routine</li></ul>
-      <div class="post-date"><i class="icon-calendar"></i>Jul 30, 2022</div>
-    </div>
+      <div class="post-date">
+        <i class="icon-calendar"></i>
+        Jul 30, 2022
+      </div><ul class="post-categories"><li>daily-routine</li></ul></div>
     <div class="post"><p>I wake up at 8:30 at that time I get up to shower and clean at 9 I start to organize my room then I check my emails to read or answer a message while I have a coffee.</p>
 </div>
   </li><li><a class="post-link" href="/welcome/2022/07/29/welcome-to-my-blog.html">
       <h2 class="post-title">Welcome to my blog</h2>
     </a>
     <div class="post-meta">
-      <ul class="post-categories"><li>welcome</li></ul>
-      <div class="post-date"><i class="icon-calendar"></i>Jul 29, 2022</div>
-    </div>
+      <div class="post-date">
+        <i class="icon-calendar"></i>
+        Jul 29, 2022
+      </div><ul class="post-categories"><li>welcome</li></ul></div>
     <div class="post"><p>Hi, I’m Willman Orellano and I’m 20 years old.
 I was born in Baranoa. I work as a freelance designing and creating web pages and applications, on my days off I like to rent an airbnb with my friends to rest.</p>
 </div>
