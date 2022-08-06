@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Information questions"
-date:   2022-07-30 10:50:11 -0500
+date:   2022-08-06 10:50:11 -0500
 categories: information-questions
 ---
 Informative questions are used to ask about qualities, people, time, etc. The consist of who, what, where, when, why, which, and how, that usually called WH-Questions.
