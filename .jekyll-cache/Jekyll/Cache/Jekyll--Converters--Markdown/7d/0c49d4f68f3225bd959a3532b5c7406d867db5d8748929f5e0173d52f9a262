@@ -1,6 +1,33 @@
-I"Q<p>In this class we were working on the flagship 4 book, where we were reviewing how the characters used English in their lives. then we review a little completing the sentences of the book.</p>
+I"V<p>In this class we were working on the flagship 4 book, where we were reviewing how the characters used English in their lives. then we review a little completing the sentences of the book.</p>
 
-<audio src="/assets/videos/mr-tanaka.mp3"></audio>
+<div class="parent">
+    <div class="audio">
+        <audio controls="" controlslist="nodownload">
+            <source src="/assets/videos/mr-tanaka.mp3" type="audio/mp3" />
+            Tu navegador no soporta audio HTML5.
+        </audio>
+    </div>
+    <div class="img">
+        <img src="/assets/img/mr-tanaka.png" height="200" width="500" alt="" />
+    </div>
+    Mr. Tanaka uses English to communicate with his co-workers who speak other languages, as well as for his meetings, work research, and on social media to keep in touch with his friends.
+</div>
+<style>
+.parent {
+    /* height: 300px; */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    /* grid-column-gap: 15px; */
+    grid-row-gap: 2px;
+}
+.audio{
+    width: 70%;
+    height: 60px;
+    margin: auto;
+}
+
+</style>
 
 <!-- resspuesta:
 
