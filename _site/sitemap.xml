@@ -9,6 +9,11 @@
             <lastmod>2019-06-07T00:00:00+00:00</lastmod>
             <priority>1.00</priority>
         </url><url>
+                <loc>http://localhost:4000/in-what-ways-is-music-important-to-you/2022/08/20/In-what-ways-is-music-important-to-you.html</loc>
+                <lastmod>2022-08-20T10:50:11-05:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
                 <loc>http://localhost:4000/listen-to-a-conversation-about-music/2022/08/11/listen-to-a-conversation-about-music.html</loc>
                 <lastmod>2022-08-11T10:50:11-05:00</lastmod>
                 <changefreq>weekly</changefreq>
@@ -19,8 +24,13 @@
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/information-questions/2022/08/06/information-question.html</loc>
+                <loc>http://localhost:4000/sentences-with-descriptive-adjectives/2022/08/06/sentences-with-descriptive-adjectives.html</loc>
                 <lastmod>2022-08-06T10:50:11-05:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
+                <loc>http://localhost:4000/information-questions/2022/08/05/information-question.html</loc>
+                <lastmod>2022-08-05T10:50:11-05:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
