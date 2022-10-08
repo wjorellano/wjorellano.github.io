@@ -1,5 +1,5 @@
 ---
-tite: presentation
+tite: presentation about my friends
 date: 2022-09-08
 layout: post
 categories: presentation

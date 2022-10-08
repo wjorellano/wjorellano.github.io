@@ -1,11 +1,11 @@
 ---
-title: Present Simple
-date: 2022-10-27
-categories: present simple
+tite: present simple
+date: 2022-09-27
 layout: post
+categories: present-simple
 ---
 
-# Present Simple
+
 
 The present simple is used to talk about things that are true in general, or things that are always true. It is also used to talk about things that are happening now, or things that happen regularly.
 

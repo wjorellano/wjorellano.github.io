@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Present Simple",
+      "title-lower"    : "present simple",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "present-simple",
+      "tags"     : "",
+      "url"      : "https://wjorellano.github.io/present-simple/2022/09/27/present-simple.html",
+      "date"     : "2022-09-27 00:00:00 -0500",
+      "content"     : "The present simple is used to talk about things that are true in general, or things that are always true. It is also used to talk about things that are happening now, or things that happen regularl..."
+    } ,
+  
+    {
       "title"    : "Presentation",
       "title-lower"    : "presentation",
       "sub-titile" : "",
