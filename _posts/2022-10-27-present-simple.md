@@ -1,6 +1,6 @@
 ---
 title: Present Simple
-date: 2022-10-27 18:06:11 -0500
+date: 2022-10-27
 categories: present simple
 layout: post
 ---
