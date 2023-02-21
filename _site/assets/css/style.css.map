@@ -3,15 +3,15 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/plain.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/ext/_fonts.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/ext/_normalize.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/_syntax.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/ext/_solarized-light.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/search.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/toggle.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/dark.scss",
-		"../.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/plainwhite-0.13/_sass/ext/_solarized-dark.scss"
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/plain.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/ext/_fonts.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/ext/_normalize.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/_syntax.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/ext/_solarized-light.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/search.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/toggle.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/dark.scss",
+		"../.rbenv/versions/2.7.6/lib/ruby/gems/2.7.0/gems/plainwhite-0.13/_sass/ext/_solarized-dark.scss"
 	],
 	"sourcesContent": [
 		"@import \"plain\";\n\n\n  @import \"search\";\n@import \"toggle\";\n  @import \"dark\";",

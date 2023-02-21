@@ -9,48 +9,13 @@
             <lastmod>2019-06-07T00:00:00+00:00</lastmod>
             <priority>1.00</priority>
         </url><url>
-                <loc>http://localhost:4000/present-simple/2022/09/27/present-simple.html</loc>
-                <lastmod>2022-09-27T00:00:00-05:00</lastmod>
+                <loc>http://localhost:4000/second-activity/2023/02/10/second-activity.html</loc>
+                <lastmod>2023-02-10T00:00:00-05:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url><url>
-                <loc>http://localhost:4000/presentation/2022/09/08/presentation.html</loc>
-                <lastmod>2022-09-08T00:00:00-05:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/in-what-ways-is-music-important-to-you/2022/08/20/In-what-ways-is-music-important-to-you.html</loc>
-                <lastmod>2022-08-20T10:50:11-05:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/listen-to-a-conversation-about-music/2022/08/11/listen-to-a-conversation-about-music.html</loc>
-                <lastmod>2022-08-11T10:50:11-05:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/who-uses-english/2022/08/09/who-uses-english.html</loc>
-                <lastmod>2022-08-09T10:50:11-05:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/sentences-with-descriptive-adjectives/2022/08/06/sentences-with-descriptive-adjectives.html</loc>
-                <lastmod>2022-08-06T10:50:11-05:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/information-questions/2022/08/05/information-question.html</loc>
-                <lastmod>2022-08-05T10:50:11-05:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/daily-routine/2022/07/30/daily-routine.html</loc>
-                <lastmod>2022-07-30T10:50:11-05:00</lastmod>
-                <changefreq>weekly</changefreq>
-                <priority>0.80</priority>
-            </url><url>
-                <loc>http://localhost:4000/welcome/2022/07/29/welcome-to-my-blog.html</loc>
-                <lastmod>2022-07-29T18:06:11-05:00</lastmod>
+                <loc>http://localhost:4000/firt-activity/2023/02/09/first-activity.html</loc>
+                <lastmod>2023-02-09T00:00:00-05:00</lastmod>
                 <changefreq>weekly</changefreq>
                 <priority>0.80</priority>
             </url></urlset>
