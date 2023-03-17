@@ -7,7 +7,7 @@ categories: second-activity
 
 paraphrasing of the following text:
 
-[Link al video](https://youtube.com/shorts/Hi7ZyAeccps?feature=share)
+[Link al video](https://youtube.com/shorts/Hi7ZyAeccps)
 
 Mark Zupan suffered a tragic accident at the age of 18 that left him a quadriplegic and changed his life forever. However, with much effort and dedication, he managed to regain movement in his arms and turned his passion for quad rugby into a great success, helping his team win a gold medal at the Paralympic Games. Although he dreams of being able to run again, Zupan doesn't live in the past and keeps going, lifting weights, watching his diet and enjoying life like anyone else. He considers himself a human being and an athlete, and not just someone in a wheelchair.
 
