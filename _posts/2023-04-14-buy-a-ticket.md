@@ -1,0 +1,12 @@
+---
+title: "Buy a ticket"
+date: 2023-04-14
+layout: post
+categories: buy-a-ticket
+---
+
+# Buy a ticket
+
+conversation. we talked about buying some tickets
+
+[link al video](https://youtube.com/shorts/-bYDXfRuNHY)
