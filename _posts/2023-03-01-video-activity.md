@@ -5,7 +5,6 @@ layout: post
 categories: video-activity
 ---
 
-# Video Activity
 
 conversation about the activity of the week
 
