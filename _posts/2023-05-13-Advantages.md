@@ -1,6 +1,6 @@
 ---
 title: "Advantages and disadvantages of credit card and cash"
-date: 2023-04-13
+date: 2023-05-13
 layout: post
 categories: advantages-and-disadvantages
 ---
