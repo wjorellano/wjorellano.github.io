@@ -6,5 +6,5 @@ categories: too-and-enough
 ---
 
  5 sentences using too and enough
+ 
 ![](../assets/img/oraciones.jpeg)
-<img src="../assets/img/oraciones.jpeg" alt="">
