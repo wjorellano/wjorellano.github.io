@@ -6,5 +6,6 @@ categories: advantages-and-disadvantages
 ---
 
 These are some of the advantages and disadvantages of the credit card and cash
+
 ![](../assets/ventajas.jpeg)
 <img src="../assets/img/ventajas.jpeg" alt="" srcset="">
